@@ -30,7 +30,7 @@ div {
 
 @keyframes my-animation3 {
   0%   {background-color:red; left:500px; top:0px; border-radius: 5%;}
-  33%  {background-color: green; left: 750px, top 150px; border-radius: 50%;}
+  33%  {background-color: orange; left: 750px, top 150px; border-radius: 50%;}
   66%  {background-color: purple; left: 250px, top 150px; border-radius: 50%;}
   100% {background-color:red; left:500px; top:0px; border-radius: 5%;}
-}
+} 
